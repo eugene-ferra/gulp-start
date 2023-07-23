@@ -1,0 +1,8 @@
+{
+    "extends": "airbnb",
+    "rules": {
+      "browser": true,
+      "object-curly-newline": "off"
+    }
+  }
+  
